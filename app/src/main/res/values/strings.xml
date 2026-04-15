@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Loja Virtual</string>
+    <string name="title_cadastro">Cadastro de produto</string>
+    <string name="title_lista">Produtos em estoque</string>
+    <string name="hint_nome">Nome do produto</string>
+    <string name="hint_codigo">Código do produto (alfanumérico)</string>
+    <string name="hint_preco">Preço (R$)</string>
+    <string name="hint_quantidade">Quantidade em estoque</string>
+    <string name="button_salvar">Salvar produto</string>
+    <string name="button_ver_lista">Ver produtos cadastrados</string>
+    <string name="button_voltar_cadastro">Voltar ao cadastro</string>
+    <string name="empty_list">Nenhum produto cadastrado ainda.</string>
+    <string name="toast_saved">Produto salvo com sucesso.</string>
+    <string name="error_required">Este campo é obrigatório.</string>
+    <string name="error_code_invalid">Informe um código alfanumérico (sem espaços ou símbolos).</string>
+    <string name="error_price_invalid">Informe um preço positivo com até duas casas decimais (ex.: 19,90).</string>
+    <string name="error_quantity_invalid">Informe um número inteiro positivo.</string>
+    <string name="label_codigo_list">Código: %1$s</string>
+</resources>

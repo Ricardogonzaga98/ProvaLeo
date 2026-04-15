@@ -1,0 +1,32 @@
+# Gradle / build
+.gradle/
+**/build/
+captures/
+
+# Local SDK path (não versionar — é específico da sua máquina)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Keystores (nunca enviar assinatura)
+*.jks
+*.keystore
+
+# Logs e temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Gradle wrapper jar fica versionado; pasta de distribuição baixada manualmente não
+gradle-8.7/
+gradle-8.7-bin.zip
+
+# APKs gerados (opcional — descomente se não quiser versionar builds)
+# *.apk
+# *.aab
